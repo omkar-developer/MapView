@@ -1,0 +1,6 @@
+
+[Error Log]
+
+vertex shader error 
+pixel shader error 
+link shader error 
