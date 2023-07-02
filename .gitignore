@@ -1,0 +1,59 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/Release
+/MapView/Release
+/MapView/Debug
+/Debug
+/MapView/big0.dat
+/MapView/bigf0-c.dat
+/MapView/bigf0-h.dat
+/MapView/bigf0-i.dat
+/MapView/bigf0-t.dat
+/MapView/disp0-c.dat
+/MapView/disp0-h.dat
+/MapView/disp0-i.dat
+/MapView/disp0-t.dat
+/MapView/levl2025.dat
+/MapView/levl2127.dat
+/MapView/levl2128.dat
+/MapView/levl2131.dat
+/MapView/levl2131.hdr
+/MapView/levl2131.ver
+/MapView/levl2131__.dat
+/MapView/levl2133.dat
+/MapView/pal0-c.dat
+/MapView/pal0-h.dat
+/MapView/pal0-i.dat
+/MapView/pal0-t.dat
+/MapView/test.data
+/MapView/test2.data
